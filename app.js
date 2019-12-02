@@ -70,7 +70,7 @@ request('https://www.resourcinggroup.us/jobs-feed/wkxml', function (error, respo
                 }
             }
             console.info(result)
-            console.info(result.length)
+            console.info(`Size of result Array: ${result.length}`)
 
     }
 
