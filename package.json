@@ -1,0 +1,23 @@
+{
+  "name": "29bot_final-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camaro": "^4.1.2",
+    "express": "^4.17.1",
+    "got": "^9.6.0",
+    "nodemon": "^2.0.1",
+    "pug": "^2.0.4",
+    "python": "0.0.4",
+    "request": "^2.88.0",
+    "slash": "^3.0.0",
+    "xml2js": "^0.4.22"
+  }
+}
